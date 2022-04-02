@@ -5,12 +5,14 @@ if title.empty? then
     exit 1
 end
 
+imgs = `ls assets/imgs`.split("\n")
+bgimg = imgs[Random::rand(imgs.size)]
+
 post = %{---
 layout: post
 title:  "#{title}"
+background: "/assets/imgs/#{bgimg}"
 ---
-
-# #{title}
 
 text here
 }
