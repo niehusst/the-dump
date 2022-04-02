@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Why the blog?"
+subtitle: 'Because I feel like it.'
+background: '/assets/imgs/braindump2.png'
 ---
-
-# Why the blog?
 
 I think there's something important about getting your thoughts or ideas
 written out. Even if they're unimportant, or random.
