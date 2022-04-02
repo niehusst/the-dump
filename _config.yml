@@ -6,8 +6,8 @@ email: liamniehusstaab@gmail.com
 author: Liam Niehus-Staab
 description: >- # this means to ignore newlines until "baseurl:"
     Just a blog of random thoughts. Don't expect too much.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/the-dump" # the subpath of your site, e.g. /blog
+url: "https://niehusstaab.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  niehusst
 linkedin_username: liam-niehus-staab
 google_analytics: G-JBDWZKE00N
