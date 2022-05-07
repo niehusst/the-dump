@@ -125,3 +125,14 @@ For this reason, voting alone will never be enough to change the system in a rad
 advocating for people to stop voting; we shouldn't throw away what little power we are given.
 
 Human rights have always come second to business profit in the U.S., and I am deeply saddened by the high probability that they will forever.
+
+**Edit:**
+
+A minor clarification; the purpose of this post (aside from fun) is to bring the ideas of U.S. nationalism, pride, and patriotism down a few pegs,
+and to present some perspectives of American history that aren't often mentioned in school history books.
+
+While the U.S. government is far from perfect (see above article), there are good parts of it. Civil rights in the U.S. have come a long way since the
+founding of the nation, and are better than those in some other nations. I'm not saying every aspect or member of the U.S. government is corrupt,
+what I am saying is that our history is far from clean (even in recent years) and we as citizens need to be vocal and active to keep
+pushing our flawed system in the right direction. We can't rest on our laurels, not only because many Americans don't have symbolic laurels to rest
+on, but because silence and inaction let the worse parts of the government regain lost ground.
