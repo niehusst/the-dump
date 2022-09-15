@@ -23,3 +23,21 @@ stay as snappy as possible.
 * The flexibility of your code is more important than the functionality of your code (flexible code with bugs in it can be changed)
 * Code duplication is ok if the use cases of the duplicated code may diverge; only unify duplicated code if it would always change at the same time anyway
 * Code architecture should try to be agnostic; put off making decisions until you know what your needs are (this also incurs greater code flexibility)
+
+Edit 9/14/22
+
+* Monitoring lets you know about code stability after release
+* A little operational excellence can go long way for team agility
+* Follow semantic versioning (at least mostly)! It will help you/clients avoid dependency hell
+* Version pinning (for deps and/or network end-points) helps prevent breaking changes (including to previously released versions, in the case of end-point version pinning)
+* Use the [Humble Object](https://devlead.io/DevTips/HumbleObject) pattern to improve testability + flexibility
+* Tests that are strongly coupled to implementation (i.e. testing UI string values) are rigid, fragile and basically worthless; they can only tell you that your code has changed
+* Design your systems for testability
+* As much as possible, don't depend on volatile code
+* When building something: 1) Make it work. 2) Make it right (refactor for flex/readability). 3) Make it fast (only as much as needed though).
+* [Manage up](https://www.tinypulse.com/blog/what-does-it-mean-to-manage-up), don't manage down
+* If you wish there was documentation for something on your team, make it yourself while you figure out the information you needed
+* Communication! Yes, this is just as important for devs as it is for anyone else.
+* Don't say "yes" to everything (you have a limit, you will reach it), say "yes, but...". Explain the trade-off you will have to make if you accept extra tasks
+* Keep on the same page after meetings by sending an email with the agreed action items (doubles as receipts against managers re-writing history)
+* Code is a liability; opt for [Taco Bell programming!](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
