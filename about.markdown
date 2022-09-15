@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+background: '/assets/imgs/braindump2.png'
 ---
 
 This website is blog written by Liam Niehus-Staab. I'm a software engineer,
