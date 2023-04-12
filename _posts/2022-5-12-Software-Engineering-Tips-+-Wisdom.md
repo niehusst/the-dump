@@ -41,3 +41,7 @@ Edit 9/14/22
 * Don't say "yes" to everything (you have a limit, you will reach it), say "yes, but...". Explain the trade-off you will have to make if you accept extra tasks
 * Keep on the same page after meetings by sending an email with the agreed action items (doubles as receipts against managers re-writing history)
 * Code is a liability; opt for [Taco Bell programming!](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
+
+Edit 4/12/23
+
+* The art of software engineering isn't the coding, it is asking enough questions to know what the actual problem to be solved is.
