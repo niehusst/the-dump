@@ -45,3 +45,8 @@ Edit 9/14/22
 Edit 4/12/23
 
 * The art of software engineering isn't the coding, it is asking enough questions to know what the actual problem to be solved is.
+
+Edit 12/6/24
+
+* Don't silo your teams; trusting and empowering everyone to do anything in the system will make everyone faster and happier. Cooperation > Parallelization. [Egoless Engineering](https://egoless.engineering)
+
