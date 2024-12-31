@@ -17,7 +17,7 @@ stay as snappy as possible.
 * Without actionable insights (aka metrics), no timely strategic decisions can be made
 * Don't optimize too early; YAGNI
 * Move fast when you need (for business survival reasons, generally), address tech debt when you can
-* [CI/CD lets you move fast with confidence]({% post_url 2022-5-10-CICD:-The-best-thing-you-didnt-learn-in-school %})
+* [CI/CD lets you move fast with confidence]({% link _posts/2022-5-10-CICD:-The-best-thing-you-didnt-learn-in-school %})
 * Good (or any) code architecture may not be necessary early on for small teams, but will become increasingly important as the team grows
 * Consider ease of deployment when designing a code architecture
 * The flexibility of your code is more important than the functionality of your code (flexible code with bugs in it can be changed)

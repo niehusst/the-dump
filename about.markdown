@@ -8,7 +8,7 @@ background: '/assets/imgs/braindump2.png'
 This website is blog written by Liam Niehus-Staab. I'm a software engineer,
 cat lover, ultimate frisbee player, and a vegan (not necessarily in that order).
 
-If you want to know more about the blog, checkout [this post]({% post_url 2022-3-30-why-the-blog %}).
+If you want to know more about the blog, checkout [this post]({% link _posts/2022-3-30-why-the-blog %}).
 
 If you want to know more about me, feel free to examine my poorly maintained
 website: [niehusstaab.com](https://niehusstaab.com).
