@@ -50,3 +50,8 @@ Edit 12/6/24
 
 * Don't silo your teams; trusting and empowering everyone to do anything in the system will make everyone faster and happier. Cooperation > Parallelization. [Egoless Engineering](https://egoless.engineering)
 
+Edit 12/30/24
+
+* Be friendly. Software development is a team sport; if no one wants to work with you, it doesn't matter how big your brain is.
+* Human connections (either a personal network or via recruiters) are a much more efficient way of landing a job than using online application portals (at least today). With increasing amounts of AI generated applications, even qualified applicants can be buried or filtered out.
+
