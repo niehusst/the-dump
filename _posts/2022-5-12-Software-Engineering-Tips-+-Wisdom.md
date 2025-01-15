@@ -55,3 +55,6 @@ Edit 12/30/24
 * Be friendly. Software development is a team sport; if no one wants to work with you, it doesn't matter how big your brain is.
 * Human connections (either a personal network or via recruiters) are a much more efficient way of landing a job than using online application portals (at least today). With increasing amounts of AI generated applications, even qualified applicants can be buried or filtered out.
 
+Edit 1/14/25
+
+* "A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: a complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a simple system." - Gall's Law. Which I find reminiscent of the concept of a [Steel Thread](https://www.rubick.com/steel-threads/).
