@@ -25,7 +25,7 @@ File.open(fpath, "w") do |f|
     f.syswrite post
 end
 
-`$EDITOR #{fpath}`
+`#{ENV["EDITOR"} #{fpath}`
 
 puts "created file at"
 puts fpath
