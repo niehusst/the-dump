@@ -61,7 +61,7 @@ The biggest hurdle for me is starting something that takes more mental energy th
 
 If things get too out of hand with anime, I can always add it to my [TubeBouncer extension](https://github.com/niehusst/TubeBouncer) to set a hard limit on my viewing time.
 
-### Still need to sleep!?
+### 7. Still need to sleep!?
 
 I'm still having trouble sleeping. Last year's experiment with going to sleep earlier was unsuccessful in getting me more sleep, but it was informative.
 
