@@ -13,3 +13,5 @@ on the reader (at least it did for me!). I've already downloaded a Hikaru no-Go 
 thinking of creating a website to play Go on (we'll see if I get to that...).
 
 It's amazing how far you can go with just passion and a goal (and maybe a rival/friend).
+
+EDIT: I finished building that website after only \*checks watch\* 2.5 years! [Here's a post about it.](https://niehusstaab.com/the-dump/2025/06/08/Project-files-Website-for-playing-Go.html)
