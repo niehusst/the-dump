@@ -58,3 +58,7 @@ Edit 12/30/24
 Edit 1/14/25
 
 * "A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: a complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a simple system." - Gall's Law. Which I find reminiscent of the concept of a [Steel Thread](https://www.rubick.com/steel-threads/).
+
+Edit 6/24/25
+
+* Focus on building a small set of really good features than a moutain of features for every possible use-case. Every feature you add costs to maintain, makes your product harder to use (via complexity), and introduces more opportunity for failure. Only build more features if they will 10x your core value or double your revenue.
